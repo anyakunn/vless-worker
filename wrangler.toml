@@ -1,0 +1,9 @@
+name = "vless-worker"
+main = "src/index.js"
+compatibility_date = "2024-09-23"
+compatibility_flags = ["nodejs_compat"]
+
+# Optional: if you want to use a custom domain later
+# routes = [
+#   { pattern = "your.domain.com/*", zone_name = "domain.com" }
+# ]
